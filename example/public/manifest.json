@@ -1,0 +1,8 @@
+{
+  "short_name": "@matt.woodage/react-month",
+  "name": "@matt.woodage/react-month",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
